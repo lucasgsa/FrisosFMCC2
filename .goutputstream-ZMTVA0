@@ -11,9 +11,7 @@ def abreImagem(caminho):
 	"""
 	Abre um arquivo de imagem e retorna.
 	"""
-	imagem = Image.open(caminho).convert('RGBA') 
-	lista = numpy.asarray(imagem)
-	return imagem
+	return Image.open(caminho)
 def geraFrisos(caminhoEntrada, caminhoSaida):
 	try:
 		imagem = abreImagem(caminhoEntrada)
