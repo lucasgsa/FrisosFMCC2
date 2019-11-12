@@ -15,4 +15,4 @@ Bibliotecas utilizadas: numpy e PIL
 Problemas:
 - Imagens JPG podem dar problema por enquanto.
 - Não sei se caso haja imagem com fundo branco por exemplo, como a parte vazia da imagem em um exemplo de meia rotação ou reflexao deslizante deveria ficar. obs: deixei por padrao pixeis com transparência total.
-- Bugs especificos: as vezes dependendo da imagem se for baixada ele não consegue transformar direito e dá erro, mas se abrir em um editor e salvar novamente funciona.
+- Bug fixes: as vezes dependendo da imagem se for baixada ele não consegue transformar direito e dá erro, mas se abrir em um editor e salvar novamente funciona. CORRIGIDO
