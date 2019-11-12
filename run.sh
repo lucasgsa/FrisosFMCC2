@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if python3 index.py $1 $2; then
-	echo 'Todos os 7 frisos criados com sucesso!'
+	echo 'Fim script.!'
 else
-	echo 'Não foi possível executar o script, veTodos os 7 frisos criados com sucesso.'
+	echo 'Não foi possível executar o script devido a um erro.'
 fi
