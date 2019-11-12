@@ -1,3 +1,5 @@
+print ("Carregando bibliotecas...")
+
 from PIL import Image
 import numpy
 import sys
