@@ -8,12 +8,6 @@ class Friso():
 		return self.imagem
 	def salvarImagem(self, caminho):
 		self.imagem.save(caminho)
-	def addDiagonal(self, outro):
-		tempMatriz1 = numpy.array(self.imagem)
-		tempMatriz2 = numpy.array(outro.imagem)
-		
-		new = numpy.concatenate((tempMatriz1, tempMatriz2))
-		return Friso(Image.fromarray(new))
 	def reflexaoVertical(self):
 		tempMatriz = numpy.array(self.imagem)
 		for i in range(len(tempMatriz)):
