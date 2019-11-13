@@ -1,7 +1,13 @@
 # FrisosFMCC2
 
 Gerador dos 7 tipos diferentes de frisos passada uma imagem png.
-Bibliotecas utilizadas: numpy e PIL
+Bibliotecas utilizadas:
+- NumPY para manipular arrays.
+- PIL para carregar e salvar a imagem depois de feita.
+- Sys para receber os argumentos passados no terminal.
+- OS para fazer o sistema de verificação da pasta de destino e cria-lá se necessário.
+
+Detalhes:
 
 - Comando para executar no windows: python index.py caminhoImagem caminhoPastaSaida
 
