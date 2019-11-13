@@ -12,15 +12,12 @@ def abreImagem(caminho):
 	Abre um arquivo de imagem e retorna.
 	"""
 	return Image.open(caminho).convert('RGBA')
-def geraFrisos(caminhoEntrada, caminhoSaida):
+def geraFrisos(caminhoEntrada, caminhoSaida, repeticoes):
 	try:
 		imagem = abreImagem(caminhoEntrada)
 	except(Exception):
 		print ("Imagem inexistente!!!")
 		quit()
-
-
-	quantidadeRepeticoes = 3
 
 	friso = Friso(imagem)
 
@@ -44,7 +41,7 @@ def geraFrisos(caminhoEntrada, caminhoSaida):
 	print ("Repetindo frisos gerados...")
 	for i in range(len(listaDeFrisos)):
 		atual = listaDeFrisos[i]
-		for j in range(quantidadeRepeticoes):
+		for j in range(repeticoes):
 			listaDeFrisos[i] = addDireita(listaDeFrisos[i],atual)
 			
 	#Salvando
@@ -58,4 +55,4 @@ def geraFrisos(caminhoEntrada, caminhoSaida):
 	print ("Todos os 7 frisos foram gerados com sucesso!")
 		
 arquivo, caminhoEntrada, caminhoSaida = sys.argv
-geraFrisos(caminhoEntrada, caminhoSaida)
+geraFrisos(caminhoEntrada, caminhoSaida, 10)
