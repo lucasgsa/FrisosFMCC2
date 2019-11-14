@@ -55,4 +55,4 @@ def geraFrisos(caminhoEntrada, caminhoSaida, repeticoes):
 	print ("Todos os 7 frisos foram gerados com sucesso!")
 		
 arquivo, caminhoEntrada, caminhoSaida = sys.argv
-geraFrisos(caminhoEntrada, caminhoSaida, 10)
+geraFrisos(caminhoEntrada, caminhoSaida, 5)
