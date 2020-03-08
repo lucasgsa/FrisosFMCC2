@@ -11,11 +11,11 @@ Exemplo do que são frisos:
 
 **Motivo do friso:**
 
-<img src="./Motivos/flor.png">
+<img src="./Motivos/grafico.png">
 
 Primeiro Friso:
 
-<img src="./Frisos/Flor/friso1.png">
+<img src="./Frisos/Grafico/friso1.png">
 
 Detalhes:
 
