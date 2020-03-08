@@ -9,13 +9,45 @@ Bibliotecas utilizadas:
 
 Exemplo do que são frisos:
 
+__Para ver mais exemplos vá até a pasta Frisos que contém os resultados diretos de todos os contidos na pasta Motivos para exemplos__
+
 **Motivo do friso:**
 
 <img src="./Motivos/grafico.png">
 
-Primeiro Friso:
+1º Friso:
 
 <img src="./Frisos/Grafico/friso1.png">
+
+
+2º Friso:
+
+<img src="./Frisos/Grafico/friso2.png">
+
+
+3º Friso:
+
+<img src="./Frisos/Grafico/friso3.png">
+
+
+4º Friso:
+
+<img src="./Frisos/Grafico/friso4.png">
+
+
+5º Friso:
+
+<img src="./Frisos/Grafico/friso5.png">
+
+
+6º Friso:
+
+<img src="./Frisos/Grafico/friso6.png">
+
+
+7º Friso:
+
+<img src="./Frisos/Grafico/friso7.png">
 
 Detalhes:
 
