@@ -8,6 +8,13 @@ Bibliotecas utilizadas:
 - OS para fazer o sistema de verificação da pasta de destino e cria-lá se necessário.
 
 Exemplo do que são frisos:
+
+**Motivo do friso:**
+
+<img src="./Motivos/flor.png">
+
+Primeiro Friso:
+
 <img src="./Frisos/Flor/friso1.png">
 
 Detalhes:
