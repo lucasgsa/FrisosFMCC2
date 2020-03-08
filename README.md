@@ -13,7 +13,7 @@ __Para ver mais exemplos vá até a pasta Frisos que contém os resultados diret
 
 **Motivo do friso:**
 
-<img src="./Motivos/grafico.png">
+<img src="./Motivos/grafico.png" width="150" height="150">
 
 1º Friso:
 
