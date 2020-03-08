@@ -24,10 +24,13 @@ Problemas:
 
 Bug fixes: 
 
-- as vezes dependendo da imagem se for baixada ele não consegue transformar direito e dá erro, mas se abrir em um editor e salvar novamente funciona. CORRIGIDO
+- As vezes dependendo da imagem se for baixada ele não consegue transformar direito e dá erro, mas se abrir em um editor e salvar novamente funciona. 
+**CORRIGIDO**
 Foi adicionado na abertura da imagem para converter para o tipo RGBA.
 
-- se nao existir a pasta de destino o programa quebra. CORRIGIDO
+- Se nao existir a pasta de destino o programa quebra. 
+**CORRIGIDO**
 Quando a pasta não existe, ela é criada agora. Sendo checado antes de tentar salvar.
 
-- problema na versao que o python roda, nao sei bem usar o build.sh para baixar a biblioteca numpy e PIL dependendo da versão.
+- Problema na versao que o python roda, nao sei bem usar o build.sh para baixar a biblioteca numpy e PIL dependendo da versão.
+**Não corrigido**
