@@ -8,7 +8,7 @@ Bibliotecas utilizadas:
 - OS para fazer o sistema de verificação da pasta de destino e cria-lá se necessário.
 
 Exemplo do que são frisos:
-<img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.atractor.pt%2Fsimetria%2Fmatematica%2Fmateriais%2Fexercicio-frisos.htm&psig=AOvVaw2YwYG1QEjETQ8MqihRQizO&ust=1583729113828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDk4-yIiugCFQAAAAAdAAAAABAO">
+<img src="./Frisos/Flor/friso1.png">
 
 Detalhes:
 
