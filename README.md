@@ -7,6 +7,9 @@ Bibliotecas utilizadas:
 - Sys para receber os argumentos passados no terminal.
 - OS para fazer o sistema de verificação da pasta de destino e cria-lá se necessário.
 
+Exemplo do que são frisos:
+<img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.atractor.pt%2Fsimetria%2Fmatematica%2Fmateriais%2Fexercicio-frisos.htm&psig=AOvVaw2YwYG1QEjETQ8MqihRQizO&ust=1583729113828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDk4-yIiugCFQAAAAAdAAAAABAO">
+
 Detalhes:
 
 - Comando para executar no windows: python index.py caminhoImagem caminhoPastaSaida
@@ -18,7 +21,7 @@ Detalhes:
 - Para executar, utilize ./run.sh caminhoImagem caminhoPastaSaida
 
 Problemas:
-- Imagens JPG não é suportada por enquanto.
+- Imagens JPG não é suportada por enquanto mas funciona na maioria dos casos.
 - Não sei se caso haja imagem com fundo branco por exemplo, como a parte vazia da imagem em um exemplo de meia rotação ou reflexao deslizante deveria ficar. obs: deixei por padrao pixeis com transparência total.
 
 
