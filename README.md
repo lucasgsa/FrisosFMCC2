@@ -49,7 +49,8 @@ __Para ver mais exemplos vá até a pasta Frisos que contém os resultados diret
 
 <img src="./Frisos/Grafico/friso7.png">
 
-Detalhes:
+
+**Detalhes sobre como usar:**
 
 - Comando para executar no windows: python index.py caminhoImagem caminhoPastaSaida
 
