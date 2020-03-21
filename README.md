@@ -1,4 +1,4 @@
-# FrisosFMCC2
+# Gerador de Frisos
 
 Gerador dos 7 tipos diferentes de frisos passada uma imagem png.
 Bibliotecas utilizadas:
